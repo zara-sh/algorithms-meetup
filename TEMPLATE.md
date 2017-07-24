@@ -12,6 +12,10 @@ What kind of inputs should our function expect?
 
 What will be the output?
 
+## Example
+
+Give 1-2 example inputs and respective outputs.
+
 ## Constraints 
  
 Constraints for inputs, outputs, or space/time complexity.

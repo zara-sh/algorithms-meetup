@@ -38,6 +38,14 @@ Two inputs, both strings.
 
 Boolean (true or false)
 
+## Example
+
+Input: 'palindrome', 'emordnilap'
+Output: true
+
+Input: 'string', 'gnirst'
+Output: false
+
 ## Tips
 
 * [Learn about strings from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)

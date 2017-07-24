@@ -19,11 +19,16 @@ Given N hills and M pairs of connected hills, write a function that will determi
 You get two inputs: n and m
 
 N = number of hills
+
 M = array of tuples [v1, v2]. Each tuple represents the hills connected by rope bridges.
 
 ## Output
 
 Boolean (or different strings, up to you)
+
+## Example
+
+
 
 ## Constraints 
  
