@@ -28,6 +28,19 @@ Boolean (or different strings, up to you)
 
 ## Example
 
+Example 1:
+
+  * N = 4
+  * M = [[1, 2], [2, 3], [3, 4], [4, 1]]
+  * Output: "Yay!!"
+    * Path/explanation: 1 -> 2 -> 3 -> 4 (treasure!) -> 1
+
+Example 2:
+
+  * N = 4
+  * M = [[1, 2], [2, 3], [3, 1]]
+  * Output: "Nooooo!"
+    * Path/explanation: 1 -> 2 -> 3 -> 1 (but the treasure is on 4!)
 
 
 ## Constraints 
