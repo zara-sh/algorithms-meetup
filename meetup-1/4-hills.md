@@ -27,5 +27,5 @@ Boolean (or different strings, up to you)
 
 ## Constraints 
  
-1 <= N <= 10^5
-0 <= M <= 2 * 10^5
+* 1 <= N <= 10^5
+* 0 <= M <= 2 * 10^5

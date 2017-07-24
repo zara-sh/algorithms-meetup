@@ -19,11 +19,11 @@ Algorithms are rated from 1 to 5.
 
 Roughly speaking...
 
-1 = Great for those just getting started with coding
-2 = Simple
-3 = Medium
-4 = Medium, some CS knowledge probably helps
-5 = Hard, some CS knowledge probably helps
+* 1 = Great for those just getting started with coding
+* 2 = Simple
+* 3 = Medium
+* 4 = Medium, some CS knowledge probably helps
+* 5 = Hard, some CS knowledge probably helps
 
 ## Contribute
 
