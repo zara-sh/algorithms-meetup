@@ -33,6 +33,8 @@ Islands: 4
  
 Map size is at least 1x1 and at most 10x10.
 
+Time complexity must be O(n) or faster.
+
 ## Tips
 
 Good luck!
