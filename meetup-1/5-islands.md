@@ -15,17 +15,21 @@ An integer representing the number of islands on the map. (If two pieces of land
 ## Example
 
 Map:
+```
 [[1, 1, 1],
  [0, 0, 0],
  [0, 0, 1]]
+```
 
 Islands: 2
 
 Map:
+```
 [[0, 1, 0, 1],
  [0, 0, 0, 0],
  [1, 0, 1, 0],
  [1, 0, 1, 0]]
+```
 
 Islands: 4
 
